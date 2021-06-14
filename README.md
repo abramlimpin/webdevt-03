@@ -1,2 +1,5 @@
 # webdevt-03
 An individual activity for Web Development
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam condimentum turpis eu ex suscipit, id pulvinar est euismod. Ut egestas hendrerit ipsum, in sollicitudin tellus placerat ullamcorper. Sed dignissim egestas nunc, vel aliquam lectus lobortis ut. Praesent pellentesque turpis vel vulputate ultricies. Vivamus feugiat neque id nisl laoreet, eu pellentesque mi egestas. Donec euismod neque sed lectus laoreet volutpat vitae sit amet lectus. Quisque interdum elementum odio tincidunt mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur laoreet, orci id tincidunt vehicula, arcu mi condimentum tellus, ut aliquam eros dui ut erat. Aenean convallis est egestas est sodales mattis. Ut porttitor libero libero, quis gravida sem interdum ut. Sed quis congue lectus. Maecenas faucibus eu neque id mattis. Proin blandit lectus eu pellentesque hendrerit. Curabitur tincidunt dictum consectetur.
